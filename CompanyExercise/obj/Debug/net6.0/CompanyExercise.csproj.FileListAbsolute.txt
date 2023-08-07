@@ -1,0 +1,15 @@
+/home/henrique_medeiros/RiderProjects/CompanyExercise/CompanyExercise/obj/Debug/net6.0/CompanyExercise.csproj.AssemblyReference.cache
+/home/henrique_medeiros/RiderProjects/CompanyExercise/CompanyExercise/obj/Debug/net6.0/CompanyExercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique_medeiros/RiderProjects/CompanyExercise/CompanyExercise/obj/Debug/net6.0/CompanyExercise.AssemblyInfoInputs.cache
+/home/henrique_medeiros/RiderProjects/CompanyExercise/CompanyExercise/obj/Debug/net6.0/CompanyExercise.AssemblyInfo.cs
+/home/henrique_medeiros/RiderProjects/CompanyExercise/CompanyExercise/obj/Debug/net6.0/CompanyExercise.csproj.CoreCompileInputs.cache
+/home/henrique_medeiros/RiderProjects/CompanyExercise/CompanyExercise/bin/Debug/net6.0/CompanyExercise
+/home/henrique_medeiros/RiderProjects/CompanyExercise/CompanyExercise/bin/Debug/net6.0/CompanyExercise.deps.json
+/home/henrique_medeiros/RiderProjects/CompanyExercise/CompanyExercise/bin/Debug/net6.0/CompanyExercise.runtimeconfig.json
+/home/henrique_medeiros/RiderProjects/CompanyExercise/CompanyExercise/bin/Debug/net6.0/CompanyExercise.dll
+/home/henrique_medeiros/RiderProjects/CompanyExercise/CompanyExercise/bin/Debug/net6.0/CompanyExercise.pdb
+/home/henrique_medeiros/RiderProjects/CompanyExercise/CompanyExercise/obj/Debug/net6.0/CompanyExercise.dll
+/home/henrique_medeiros/RiderProjects/CompanyExercise/CompanyExercise/obj/Debug/net6.0/refint/CompanyExercise.dll
+/home/henrique_medeiros/RiderProjects/CompanyExercise/CompanyExercise/obj/Debug/net6.0/CompanyExercise.pdb
+/home/henrique_medeiros/RiderProjects/CompanyExercise/CompanyExercise/obj/Debug/net6.0/CompanyExercise.genruntimeconfig.cache
+/home/henrique_medeiros/RiderProjects/CompanyExercise/CompanyExercise/obj/Debug/net6.0/ref/CompanyExercise.dll
